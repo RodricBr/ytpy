@@ -15,4 +15,4 @@
 This program requires a .txt file with youtube links inside. </br>
 You must put yt links into the .txt, the program reads and downloads the videos on each line. </br> </br>
 **This is for educational purpose only!** </br>
-OBS: You can compile it in .exe and execute for Windows users </br>
+**OBS:** You can compile it in .exe and execute by calling the program name </br>
