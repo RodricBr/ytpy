@@ -3,11 +3,11 @@ OBS: You can compile it in .exe and execute for Windows users </br> </br>
 
 ## How to Install on Linux:
 
-#### 1- `sudo apt install python3 python3-pip git -y`
+`sudo apt install python3 python3-pip git -y` </br>
 
-#### 2- `pip3 install pytube`
+`pip3 install pytube` </br>
 
-#### 3- `git clone https://github.com/rodricbr/ytpy` </br> </br>
+`git clone https://github.com/rodricbr/ytpy` </br> </br>
 
 ## Required libraries: </br>
 - [colorama](https://pypi.org/project/colorama/) </br>
