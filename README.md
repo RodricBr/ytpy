@@ -1,5 +1,5 @@
 <h1 align="center">YTPy - Youtube mp4 video downloader</h1>
-</br> </br>
+</br>
 
 ## How to Install on Linux:
 
