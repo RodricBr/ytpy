@@ -6,7 +6,7 @@ try:
     import time
     import os
     from colorama import Fore, Style
-    vm_ex, vd_ex, cy_ex, a_ex, c_end = Fore.LIGHTRED_EX, Fore.LIGHTGREEN_EX, Fore.LIGHTCYAN_EX, Fore.LIGHTYELLOW_EX, Style.RESET_ALL
+    vm_ex, vd_ex, cy_ex, a_ex, c_end = Fore.LIGHTRED_EX, Fore.LIGHTGREEN_EX, Fore.LIGHTCYAN_EX, Fore.YELLOW, Style.RESET_ALL
 except:
     vm_ex, c_end = Fore.LIGHTRED_EX, Style.RESET_ALL
     print(f"{vm_ex}Pytube not installed\n Execute: pip3 install pytube{c_end}")
