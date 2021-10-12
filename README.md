@@ -14,5 +14,6 @@ OBS: You can compile it in .exe and execute for Windows users </br> </br>
 - time </br>
 - pytube </br>
 
-This program requires a txt with youtube links, you put yt links into the txt, the program reads and downloads the videos on each line.
+This program requires a .txt file with youtube links inside. </br>
+You put yt links into the txt, the program reads and downloads the videos on each line. </br>
 This is for educational purpose only!
