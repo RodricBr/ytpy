@@ -11,7 +11,6 @@ OBS: You can compile it in .exe and execute for Windows users </br> </br>
 
 ## Required libraries: </br>
 - [colorama](https://pypi.org/project/colorama/) </br>
-- time </br>
 - [pytube](https://pypi.org/project/pytube/) </br>
 
 This program requires a .txt file with youtube links inside. </br>
