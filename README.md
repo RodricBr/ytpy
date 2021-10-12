@@ -10,9 +10,9 @@ OBS: You can compile it in .exe and execute for Windows users </br> </br>
 #### 3- `git clone https://github.com/rodricbr/ytpy` </br> </br>
 
 ## Required libraries: </br>
-colorama
-time
-pytube
+colorama </br>
+time </br>
+pytube </br>
 
 This program requires a txt with youtube links, you put yt links into the txt, the program reads and downloads the videos on each line.
 This is for educational purpose only!
