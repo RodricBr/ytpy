@@ -1,4 +1,4 @@
-YTPY Youtube Downloader Made by: Ferreira, Amarau and Rodric
+<h1 align="center">YTPy - Youtube mp4 video downloader</h1>
 OBS: You can compile it in exe and use
 
 How to Install on Linux:
