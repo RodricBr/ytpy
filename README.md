@@ -1,4 +1,4 @@
-<h1 align="center">-- YTPy - Youtube mp4 video downloader --</h1>
+<h1 align="center">─ YTPy - Youtube mp4 video downloader ─</h1>
 
 </br>
 
