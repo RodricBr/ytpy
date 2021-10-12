@@ -10,6 +10,11 @@
 
 `git clone https://github.com/rodricbr/ytpy` </br> </br>
 
+## How to execute:
+
+`cd ytpy/;ls` </br>
+`python3 ytpy.py` </br> </br>
+
 ## Required libraries: </br>
 - [colorama](https://pypi.org/project/colorama/) </br>
 - [pytube](https://pypi.org/project/pytube/) </br>
