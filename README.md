@@ -1,5 +1,5 @@
 <h1 align="center">YTPy - Youtube mp4 video downloader</h1>
-###### OBS: You can compile it in exe and execute for Windows </br>
+##### OBS: You can compile it in exe and execute for Windows </br>
 
 How to Install on Linux:
 
