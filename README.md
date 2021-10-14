@@ -10,10 +10,12 @@
 
 `git clone https://github.com/rodricbr/ytpy` </br> </br>
 
-## How to execute:
+## How to use + execute:
 
 `cd ytpy/;ls` </br>
-`python3 ytpy.py` </br> </br>
+`python3 ytpy.py` </br>
+**Inside the program, type the file .txt name with the yt links** </br>
+**Type *exit* or *ctrl + c* to exit the program**
 
 ## Required libraries: </br>
 - [colorama](https://pypi.org/project/colorama/) </br>
