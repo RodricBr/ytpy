@@ -1,2 +1,2 @@
-link1 - put the first link here, REMOVE THIS LINE
-link2 - put the first link here, REMOVE THIS LINE
+link1 - put the first link here, REPLACE THIS LINE WITH THE URL
+link2 - put the second link here, REPLACE THIS LINE WITH THE URL
