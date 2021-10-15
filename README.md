@@ -15,13 +15,16 @@
 `cd ytpy/;ls` </br>
 `python3 ytpy.py` </br>
 **Inside the program, type the file .txt name with the yt links** </br>
-**Type *exit* or *ctrl + c* to exit the program**
+**Type *exit* or *ctrl + c* to exit the program** </br> </br>
 
 ## Required libraries: </br>
 - [colorama](https://pypi.org/project/colorama/) </br>
-- [pytube](https://pypi.org/project/pytube/) </br>
+- [pytube](https://pypi.org/project/pytube/) </br> </br>
+
+## Info:
 
 This program requires a .txt file with youtube links inside. </br>
-You must put yt links into the .txt, the program reads and downloads the videos on each line. </br> </br>
+You must put yt links into the .txt, the program reads and downloads the videos on each line. </br>
+The videos are downloaded in a standard definition quality (SD 720p) </br>
 **This is for educational purpose only!** </br>
 **OBS:** You can compile it in .exe and execute by calling the program name </br>
