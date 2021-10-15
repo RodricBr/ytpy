@@ -22,8 +22,8 @@ def layout():
 \t\t   \__  |\___) ||_/ \__  |
 \t\t  (____/     |_|   (____/
 \n****************************************************************
-\n*             {c_end}By: {vm_ex}Amarau and ferreiraklet 2021{c_end}                 {cy_ex}*{c_end}
-\n{cy_ex}*{c_end}  Github --> {vm_ex}github.com/Amarauu & github.com/ferreiraklet{c_end}     {cy_ex}*{c_end}
+\n*          {c_end}By: {vm_ex}Amaral, ferreiraklet and Rodric{c_end}                 {cy_ex}*{c_end}
+\n{cy_ex}*{c_end}  Github --> {vm_ex}github.com/Amarauu | github.com/ferreiraklet{c_end}     {cy_ex}*{c_end}
 \n{cy_ex}*{c_end}\t\t      {vm_ex}github.com/rodricbr{c_end}                      {cy_ex}*{c_end}
 \n{cy_ex}****************************************************************
 {c_end}""")
@@ -31,7 +31,7 @@ def layout():
 
 def inputt():
     try:
-        ytvideo = str(input(f"{vm_ex}[+]{c_end} Video's txt: "))
+        ytvideo = str(input(f"{vm_ex}[+]{c_end} TXT File: "))
         if ytvideo == 'exit':
             print(f'\n{vm_ex}Exiting... Bye!{c_end}')
             raise SystemExit
@@ -54,7 +54,7 @@ def video(video):
         for valor in videos_list:
             cont += 1
             try:
-                print(f"{a_ex}Downloading video{c_end} - [{cont}]  URL: {valor}")
+                print(f"{a_ex}[{cont}] Downloading video...{c_end}\nURL: {valor}\n")
                 youtube = YouTube(valor)
 
                 my_video = youtube.streams.get_highest_resolution()
@@ -66,13 +66,13 @@ def video(video):
                 print(f'\n\n{vm_ex}Exiting... Bye!{c_end}')
     end = time.time()
     duration = end - start
-    print(f"\n{vd_ex}Downloaded with success!\nDuration:{c_end} {duration:.2f}\n")
+    print(f"{vd_ex}Downloaded with success!\nDuration:{c_end} {duration:.2f}\n")
     inputt()
 
 #print("Title:  ", youtube.title)
 
 def downloading_video():
-    print(f"""{a_ex}
+    print(f"""{cy_ex}
  _____                    _                 _ _
 (____ \                  | |               | (_)
  _   \ \ ___  _ _ _ ____ | | ___   ____  _ | |_ ____   ____
