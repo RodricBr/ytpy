@@ -26,7 +26,7 @@
 ## Info:
 
 This program requires a .txt file with youtube links inside. </br>
-You must put yt links into the .txt in the **SAME** file as the **YTPy program**, the program reads and downloads the videos on each line of that .txt file. The videos will be downloaded in the same file as the YTPy program </br>
+You must put yt links into the .txt in the **SAME** file as the **YTPy program**, the program reads and downloads the videos on each line of that .txt file. The downloaded videos will be in the same file as the YTPy program. </br>
 The videos are downloaded in a standard definition quality (SD 720p) </br>
 **This is for educational purpose only!** </br>
 **OBS:** You can compile it in .exe and execute by calling the program name </br>
